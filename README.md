@@ -6,9 +6,6 @@ AirSonos is a server that adds Apple [AirPlay](https://www.apple.com/airplay/) (
 [Blog post for further reading (original post)](https://medium.com/@stephencwan/hacking-airplay-into-sonos-93a41a1fcfbb)
 
 
-Installation
-------------
-
 ### Install
 
 AirSonos requires [node.js](http://nodejs.org) >= v0.10.33 installed to run.
